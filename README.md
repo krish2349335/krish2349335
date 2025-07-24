@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Krishna Gupta!
+# 👋 Hello , I'm Krishna Gupta!
 
 🚀 A passionate *Java Backend Developer* from Jaipur, India  
 🎓 B.Tech CSE (AI & ML) | JECRC University (2023-2027)  
