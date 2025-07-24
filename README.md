@@ -58,7 +58,7 @@
 
 - 🎵 Love listening to music while coding  
 - 🏏 Cricket is my all-time favorite  
-- ❤ Talking with Priya is my best refreshment 😄
+
 
 ---
 
